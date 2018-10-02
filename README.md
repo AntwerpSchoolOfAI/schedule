@@ -1,3 +1,3 @@
 # Talk ideas
 * RL introduction
-* Winning Kaggle challenges
+* Winning (Kaggle) challenges: practical tips for competing
