@@ -1,3 +1,8 @@
+# Schedule
+- Achieving above human performance in games using Reinforcement Learning (Atari challenge)
+- GANS, AI systems inventing their own data (MNIST extra samples?)
+- Deep neural networks frameworks and tooling 
+
 # Talk ideas
 * RL introduction
 * Using Docker to scale and deploy your ML applications (Matthias)
